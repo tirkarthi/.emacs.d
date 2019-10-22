@@ -1,0 +1,15 @@
+/.org-id-locations
+/ac-comphist.dat
+/auto-save-list
+/custom.el
+/image-dired/
+/elpa*
+/oauth2.plstore
+/session.*
+/tramp
+/url/
+/var/
+*.elc
+*~
+*desktop*
+transient
